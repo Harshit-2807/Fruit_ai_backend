@@ -1,3 +1,4 @@
+**Important:** When checking for FAQs please be patient and wait for about a min for response as api is deployed on free server it gets paused when inactive and takes about 50 secs when called.
 
 # Fruit.ai FAQ API Backend
 
